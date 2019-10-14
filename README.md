@@ -1,6 +1,6 @@
 # kaamelott-slack
 
-Une adaptation Clojure de l'original et excellent **https://github.com/MiKaDoO/kaamelottslackcommand**
+Une adaptation Clojure de l'original et excellent **https://github.com/mmetesreau/kaamelott-slack-command**
 
 
 ![example](kaamelott.gif "example")
